@@ -25,6 +25,7 @@ cannot show a box.
 ## Free and Pro (draft, pricing not set)
 
 Free: the macOS pick list for Claude Code.
-Pro ideas: answer from your phone when away from the Mac; Windows and Linux boxes; a decision inbox that batches
+Pro leads with (Kody's pick, 2026-10-16): **answer from your phone** when away from the Mac.
+Other Pro ideas:  when away from the Mac; Windows and Linux boxes; a decision inbox that batches
 questions from several agents; safe-default timeouts; team routing; a decision log; any agent (Copilot, Cursor, Codex)
 through MCP.
