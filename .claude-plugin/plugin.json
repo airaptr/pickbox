@@ -1,0 +1,7 @@
+{
+  "name": "pickbox",
+  "version": "0.1.0",
+  "description": "Claude's questions arrive as a native pick list on your screen, wherever you are: the recommended answer pre-selected, several picks when they combine, always a 'Not now'. One glance, one click, from any screen.",
+  "author": {"name": "Kody Wildfeuer"},
+  "license": "MIT"
+}

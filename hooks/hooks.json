@@ -1,0 +1,13 @@
+{
+  "description": "Pickbox: Claude's questions arrive as a native pick list on your screen (recommended option pre-selected).",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "AskUserQuestion",
+        "hooks": [
+          {"type": "command", "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/scripts/pickbox_hook.py\"", "timeout": 3600}
+        ]
+      }
+    ]
+  }
+}
