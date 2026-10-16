@@ -1,0 +1,22 @@
+name: Join the Pickbox Pro waitlist
+description: Be first to get Pickbox Pro (answer from your phone, any agent, decision inbox).
+title: "Pro waitlist: "
+labels: ["pro-waitlist"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for your interest. This issue is public; leave out anything private. We reply here when Pro opens.
+  - type: checkboxes
+    id: features
+    attributes:
+      label: What would you use first?
+      options:
+        - label: Answer from my phone when I am away from the computer
+        - label: Works with other agents (Copilot, Cursor, Codex) through MCP
+        - label: A decision inbox that batches questions from several agents
+        - label: Windows or Linux
+        - label: Team routing (the right person gets each question)
+  - type: textarea
+    id: why
+    attributes:
+      label: Anything else? (optional)

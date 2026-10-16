@@ -1,4 +1,4 @@
-# Pickbox
+# Pickbox, by Raptr
 
 Claude's questions arrive as a native pick list on your screen, wherever you are: the recommended answer pre-selected,
 several picks when they combine, always "Not now". One glance, one click, from any screen.
@@ -22,10 +22,15 @@ How it works: Claude asks with its built-in question tool; Pickbox shows each qu
 returns your choice to Claude in the same turn, and steps aside (the normal terminal question appears) anywhere it
 cannot show a box.
 
-## Free and Pro (draft, pricing not set)
+## Free and Pro
+
+**[Join the Pro waitlist](https://github.com/airaptr/pickbox/issues/new?template=pro-waitlist.yml)** (pricing to come).
 
 Free: the macOS pick list for Claude Code.
 Pro leads with (Kody's pick, 2026-10-16): **answer from your phone** when away from the Mac.
 Other Pro ideas: Windows and Linux boxes; a decision inbox that batches
 questions from several agents; safe-default timeouts; team routing; a decision log; any agent (Copilot, Cursor, Codex)
 through MCP.
+
+---
+MIT licensed. Made by Wildhaven Homes LLC (Raptr, airaptr.com).

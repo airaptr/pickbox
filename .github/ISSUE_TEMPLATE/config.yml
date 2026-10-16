@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Pickbox home
+    url: https://airaptr.github.io/pickbox/
+    about: What Pickbox does and how to install it.
